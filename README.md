@@ -1,2 +1,2 @@
 # Anna
-Python / SQL / DA
+P
