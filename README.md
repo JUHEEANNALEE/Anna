@@ -1,0 +1,2 @@
+# Anna
+Python / SQL / DA
